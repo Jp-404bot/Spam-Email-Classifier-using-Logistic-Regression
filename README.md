@@ -19,3 +19,6 @@ The top 10 relevant features associated with spam emails and the top 10 relevant
 Lessons Learned: Throughout the project, skills in text processing, machine learning model creation, and performance evaluation were acquired.
 
 Potential Application: This project has practical applications in automated spam detection in emails and can be useful for enhancing the efficiency and security of email communications.
+
+![modelojpmorgan](https://github.com/p341ky/Spam-Email-Classifier-using-Logistic-Regression/assets/137674114/bc605764-a533-421a-a8ef-a168987e284c)
+
